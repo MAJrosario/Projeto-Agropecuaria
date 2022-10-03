@@ -1,10 +1,10 @@
 body{
     font-size: 100%;
-    background: linear-gradient(to right, #478a49 0%, #4d7940 100%);
+    background: linear-gradient(to right, #358faa 0%, #161c57 100%);
     margin-block-end: auto;
     color: black;
 }
-.AGROPECUÁRIA{
+.escola{
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -15,18 +15,18 @@ body{
     font-stretch: normal;
     line-height: initial;
     font-size: 40px;
-    color: rgb(0, 0, 0);    
+    color: rgb(237, 236, 243);    
    
     }
 
     
-.AGROPECUÁRIA{font-family: "Noto Sans script=latin rev=3";
+.colegio{font-family: "Noto Sans script=latin rev=3";
     font-weight: 400;
     font-style: normal;
     font-stretch: normal;
     line-height: initial;
     font-size: 25px;
-    color: rgb(0, 0, 0);
+    color: rgb(219, 219, 231);
     display: flex;
     flex-direction: column;
     
@@ -38,7 +38,7 @@ body{
         font-stretch: normal;
         line-height: initial;
         font-size: 28px;
-        border-top: 0.4px solid rgb(250, 244, 246);
+        border-top: 0.4px solid rgb(211, 206, 207);
         border-bottom: 0.4px solid rgb(204, 207, 211);;
         color: aliceblue;
         
@@ -65,7 +65,7 @@ body{
     }
 
 .item-botao:hover{ 
-    background-color: rgb(247, 247, 247); 
+    background-color: rgb(201, 152, 17); 
     border-radius: 20px;
     margin: 5px;  
     color: antiquewhite;
